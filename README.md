@@ -1,16 +1,23 @@
-## Hi there 👋
+I am a software engineer and penetration tester.
 
-<!--
-**karemerahugues/karemerahugues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My focus is to help build and defend computer systems which are fast, reliable and secure.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+TECH KNOWLEDGE
+### Languages
+![Languages](https://skillicons.dev/icons?i=py,php,js,c&theme=dark)
+
+### Backend & APIs
+![Backend](https://skillicons.dev/icons?i=php,nodejstheme=dark)
+
+### Databases
+![Databases](https://skillicons.dev/icons?i=mysql&theme=dark)
+
+### Frontend
+![Frontend](https://skillicons.dev/icons?i=html,css&theme=dark)
+
+
+### Tools
+![Tools](https://skillicons.dev/icons?i=git,github,linux,bash,vscode&theme=dark)
+
