@@ -6,9 +6,11 @@
 
 ## About Me
 
-I am a software engineer and penetration tester.
+I am a software engineer and penetration tester; with a strong interest in cybersecurity and in building software people can rely on.
 
 My focus is to help build and defend computer systems which are fast, reliable and secure.
+
+I'm always learning, and I'm currently improving my skills while building projects that solve real problems.
 
 
 ## Tech Stack
